@@ -29,6 +29,7 @@
 //
 
 import Foundation
+import CSwiftSocket
 
 public typealias Byte = UInt8
 
